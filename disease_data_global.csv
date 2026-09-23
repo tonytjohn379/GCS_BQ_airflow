@@ -1,0 +1,101 @@
+Country,Year,Disease,Disease Category,Prevalence Rate,Incidence Rate,Mortality Rate,Age Group,Gender,Population Affected
+India,2021,Tuberculosis,Infectious,0.18,0.2,0.03,15-34,Male,276000
+United States,2021,Heart Disease,Cardiovascular,6.9,7.4,14.0,65+,Female,22800000
+Australia,2021,Asthma,Respiratory,10.3,11.2,0.04,15-34,Male,2700000
+United Kingdom,2020,Diabetes,Non-communicable,6.4,7.0,1.3,35-64,Male,4300000
+United States,2022,Heart Disease,Cardiovascular,7.0,7.5,13.8,65+,Male,23200000
+Germany,2021,Asthma,Respiratory,8.2,8.9,0.04,15-34,Female,6750000
+India,2020,Dengue,Infectious,0.08,0.1,0.01,15-34,Female,152000
+United States,2021,Diabetes,Non-communicable,10.7,11.4,2.0,35-64,Female,16900000
+Brazil,2020,Diabetes,Non-communicable,7.1,8.0,1.5,35-64,Male,7600000
+India,2020,Diabetes,Non-communicable,8.7,9.8,1.2,35-64,Male,11800000
+United Kingdom,2020,Asthma,Respiratory,9.2,10.1,0.05,15-34,Female,6100000
+Japan,2020,Diabetes,Non-communicable,7.9,8.6,1.1,35-64,Male,9900000
+Brazil,2021,Dengue,Infectious,0.55,0.64,0.04,15-34,Male,1180000
+France,2020,Stroke,Neurological,1.5,1.7,7.1,65+,Female,1000000
+United Kingdom,2022,Diabetes,Non-communicable,6.8,7.4,1.2,35-64,Male,4600000
+Canada,2021,Diabetes,Non-communicable,7.4,8.1,1.2,35-64,Female,2830000
+Japan,2021,Diabetes,Non-communicable,8.0,8.7,1.1,35-64,Female,10100000
+Canada,2022,Diabetes,Non-communicable,7.6,8.3,1.1,35-64,Male,2910000
+Japan,2020,Pneumonia,Respiratory,1.5,1.7,6.4,65+,Female,1900000
+Germany,2020,Hypertension,Cardiovascular,27.1,29.0,6.2,65+,Male,22500000
+Brazil,2021,Hypertension,Cardiovascular,22.8,24.5,5.7,65+,Male,24400000
+Australia,2020,Asthma,Respiratory,10.1,11.0,0.04,15-34,Female,2600000
+United States,2022,Diabetes,Non-communicable,10.9,11.6,2.0,35-64,Male,17300000
+France,2022,Diabetes,Non-communicable,6.1,6.7,1.0,35-64,Male,4100000
+France,2022,Stroke,Neurological,1.4,1.6,6.7,65+,Female,1040000
+France,2020,Diabetes,Non-communicable,5.9,6.5,1.1,35-64,Male,3900000
+Japan,2022,Pneumonia,Respiratory,1.4,1.5,6.0,65+,Female,1750000
+France,2022,Asthma,Respiratory,7.9,8.6,0.03,15-34,Male,5300000
+United Kingdom,2022,Heart Disease,Cardiovascular,5.9,6.4,11.1,65+,Male,4000000
+United Kingdom,2020,Heart Disease,Cardiovascular,5.7,6.2,11.5,65+,Male,3800000
+Germany,2022,Hypertension,Cardiovascular,27.7,29.6,6.0,65+,Male,23400000
+India,2022,Tuberculosis,Infectious,0.17,0.19,0.02,15-34,Female,264000
+Japan,2020,Pneumonia,Respiratory,1.5,1.7,6.4,65+,Female,1900000
+Brazil,2021,Diabetes,Non-communicable,7.3,8.2,1.5,35-64,Female,7900000
+Germany,2020,Hypertension,Cardiovascular,27.1,29.0,6.2,65+,Male,22500000
+United States,2020,Heart Disease,Cardiovascular,6.8,7.3,14.2,65+,Male,22400000
+Germany,2021,Hypertension,Cardiovascular,27.4,29.3,6.1,65+,Female,22900000
+India,2021,Dengue,Infectious,0.11,0.14,0.01,15-34,Male,198000
+United States,2020,Influenza,Infectious,5.2,6.1,0.08,65+,Female,17200000
+Australia,2022,Heart Disease,Cardiovascular,5.0,5.5,9.1,65+,Male,1310000
+Japan,2021,Pneumonia,Respiratory,1.4,1.6,6.2,65+,Male,1800000
+Australia,2020,Diabetes,Non-communicable,5.6,6.2,1.0,35-64,Male,1450000
+Australia,2020,Asthma,Respiratory,10.1,11.0,0.04,15-34,Female,2600000
+Canada,2020,Heart Disease,Cardiovascular,5.1,5.6,10.2,65+,Male,1950000
+United Kingdom,2021,Heart Disease,Cardiovascular,5.8,6.3,11.3,65+,Female,3900000
+Brazil,2022,Hypertension,Cardiovascular,23.1,24.8,5.6,65+,Female,25000000
+United Kingdom,2022,Asthma,Respiratory,9.5,10.5,0.04,15-34,Female,6400000
+Australia,2021,Diabetes,Non-communicable,5.7,6.3,1.0,35-64,Female,1480000
+United States,2022,Influenza,Infectious,6.1,7.0,0.09,15-34,Female,20300000
+Canada,2022,Asthma,Respiratory,9.3,10.1,0.03,15-34,Female,3560000
+France,2021,Stroke,Neurological,1.5,1.6,6.9,65+,Male,1020000
+Germany,2020,Asthma,Respiratory,8.0,8.7,0.04,15-34,Male,6600000
+United States,2021,Influenza,Infectious,4.7,5.5,0.07,65+,Male,15600000
+India,2021,Diabetes,Non-communicable,9.0,10.1,1.2,35-64,Female,12400000
+India,2021,Tuberculosis,Infectious,0.18,0.2,0.03,15-34,Male,276000
+France,2021,Diabetes,Non-communicable,6.0,6.6,1.1,35-64,Female,4000000
+France,2022,Asthma,Respiratory,7.9,8.6,0.03,15-34,Male,5300000
+Brazil,2020,Hypertension,Cardiovascular,22.4,24.1,5.8,65+,Female,23900000
+United Kingdom,2022,Diabetes,Non-communicable,6.8,7.4,1.2,35-64,Male,4600000
+United States,2020,Heart Disease,Cardiovascular,6.8,7.3,14.2,65+,Male,22400000
+India,2022,Diabetes,Non-communicable,9.3,10.4,1.1,35-64,Male,13000000
+India,2020,Tuberculosis,Infectious,0.19,0.21,0.03,15-34,Male,287000
+United Kingdom,2021,Asthma,Respiratory,9.4,10.3,0.05,15-34,Male,6250000
+Australia,2021,Heart Disease,Cardiovascular,4.9,5.4,9.3,65+,Female,1280000
+Canada,2022,Heart Disease,Cardiovascular,5.3,5.8,9.8,65+,Male,2050000
+Japan,2022,Diabetes,Non-communicable,8.1,8.8,1.0,35-64,Male,10300000
+Brazil,2022,Dengue,Infectious,0.61,0.72,0.04,15-34,Female,1320000
+Canada,2021,Heart Disease,Cardiovascular,5.2,5.7,10.0,65+,Female,2000000
+Australia,2020,Heart Disease,Cardiovascular,4.8,5.3,9.5,65+,Male,1250000
+Australia,2021,Diabetes,Non-communicable,5.7,6.3,1.0,35-64,Female,1480000
+Australia,2022,Asthma,Respiratory,10.5,11.4,0.03,15-34,Female,2800000
+Canada,2020,Diabetes,Non-communicable,7.2,7.9,1.2,35-64,Male,2750000
+Japan,2020,Stroke,Neurological,1.8,2.0,8.2,65+,Male,2300000
+Germany,2020,Diabetes,Non-communicable,8.3,9.1,1.4,35-64,Female,6900000
+United States,2022,Diabetes,Non-communicable,10.9,11.6,2.0,35-64,Male,17300000
+Germany,2022,Asthma,Respiratory,8.4,9.1,0.04,15-34,Male,6900000
+Germany,2020,Asthma,Respiratory,8.0,8.7,0.04,15-34,Male,6600000
+Canada,2021,Asthma,Respiratory,9.1,9.9,0.04,15-34,Male,3480000
+Japan,2022,Stroke,Neurological,1.6,1.8,7.7,65+,Male,2100000
+Canada,2020,Asthma,Respiratory,8.9,9.7,0.04,15-34,Female,3400000
+United Kingdom,2021,Diabetes,Non-communicable,6.6,7.2,1.3,35-64,Female,4450000
+Germany,2022,Diabetes,Non-communicable,8.7,9.5,1.3,35-64,Female,7300000
+Brazil,2020,Dengue,Infectious,0.42,0.5,0.03,15-34,Female,890000
+India,2020,Tuberculosis,Infectious,0.19,0.21,0.03,15-34,Male,287000
+Brazil,2021,Dengue,Infectious,0.55,0.64,0.04,15-34,Male,1180000
+Australia,2022,Diabetes,Non-communicable,5.8,6.4,0.9,35-64,Male,1510000
+Japan,2021,Stroke,Neurological,1.7,1.9,7.9,65+,Female,2200000
+Japan,2022,Stroke,Neurological,1.6,1.8,7.7,65+,Male,2100000
+Canada,2020,Heart Disease,Cardiovascular,5.1,5.6,10.2,65+,Male,1950000
+France,2020,Diabetes,Non-communicable,5.9,6.5,1.1,35-64,Male,3900000
+Brazil,2020,Diabetes,Non-communicable,7.1,8.0,1.5,35-64,Male,7600000
+India,2020,Diabetes,Non-communicable,8.7,9.8,1.2,35-64,Male,11800000
+Canada,2022,Asthma,Respiratory,9.3,10.1,0.03,15-34,Female,3560000
+Brazil,2022,Diabetes,Non-communicable,7.5,8.4,1.4,35-64,Male,8200000
+Germany,2021,Diabetes,Non-communicable,8.5,9.3,1.4,35-64,Male,7100000
+France,2020,Asthma,Respiratory,7.5,8.2,0.04,15-34,Male,5000000
+United States,2020,Diabetes,Non-communicable,10.5,11.2,2.1,35-64,Male,16500000
+India,2022,Dengue,Infectious,0.13,0.16,0.01,15-34,Female,231000
+India,2022,Dengue,Infectious,0.13,0.16,0.01,15-34,Female,231000
+France,2021,Asthma,Respiratory,7.7,8.4,0.04,15-34,Female,5150000
