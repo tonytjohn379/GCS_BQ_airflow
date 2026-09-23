@@ -1,0 +1,1 @@
+Apache Airflow pipeline that monitors a CSV file in Google Cloud Storage (GCS) using a GCS sensor and automatically loads the file into Google BigQuery. The project demonstrates workflow orchestration, sensor-based file detection, GCS-to-BigQuery data ingestion, task dependencies, and Airflow DAG scheduling.
